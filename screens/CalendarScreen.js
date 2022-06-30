@@ -7,6 +7,10 @@ const CalendarScreen = () => {
 
 const styles = StyleSheet.create({
   block: {},
+  text: {
+    padding: 16,
+    fontSize: 24,
+  },
 });
 
 export default CalendarScreen;
