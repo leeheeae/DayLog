@@ -3,6 +3,8 @@ import {NavigationContainer} from '@react-navigation/native';
 import RootStack from './screens/RootStack';
 
 function App() {
+  
+
   return (
     <NavigationContainer>
       <RootStack />
